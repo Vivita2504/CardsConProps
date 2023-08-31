@@ -1,0 +1,39 @@
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-left: 10px;
+    margin-bottom: 100px;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;    
+}
+
+.imagen{
+    width: 250px;
+    height: 250px;
+}
+
+.titulo-color{
+    color: rgb(137, 127, 127);
+}
+
+.precio-color{
+    color: rgb(245, 28, 107);
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.cuotas-color{
+    color: rgb(119, 114, 114);
+    font-size: smaller;
+}
+
+.colores-color{
+    color: rgb(158, 151, 151);
+    font-size: smaller;
+}
